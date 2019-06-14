@@ -2,6 +2,8 @@
 
 [vuetify inhouse skeleton](https://vue-firebase-auth-test-43f9c.firebaseapp.com)
 
+Please see [wiki](https://github.com/sonoshou/vuetify-auth-skeleton/wiki)
+
 ## Build Setup
 
 ``` bash
